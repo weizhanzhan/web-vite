@@ -17,7 +17,7 @@ module.exports = [{
 		title: "第六章 设置图片效果",
 		path: '/guide/notes/6'
 	}, {
-		title: "第七章",
+		title: "第七章 Javascript 基础",
 		path: '/guide/notes/7'
 	}, {
 		title: "第八章",
